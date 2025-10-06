@@ -6,8 +6,6 @@
 - 🔭 I’m currently working on [DooleyHelpz](https://github.com/MarcoGuzBal/DooleyHelpz)
 - 🌱 I’m currently learning **CUDA, Flask, MongoDB, React, Tailwind, and JavaScript**
 - 📫 How to reach me **Pkkahssay@gmail.com**
-- ⚡ Fun fact: **I am planning to focus on High Performance Computing**
-
 
 <h2 align="left">I code with</h2>
 
