@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋🏾, I'm Peteros Kahssay</h1>
 <h3 align="center">I'm a Sophomore (Junior standing) at Emory University, majoring in Computer Science</h3>
-<h3 align="center">While I don't have some projects public on Github, I suggest looking through my [portfolio](https://peteros-portfolio.vercel.app/), where you can see the code there and the projects themselves while interacting with them!</h3>
+<h3 align="center">
+  While I don't have some projects public on GitHub, I suggest looking through my
+  <a href="https://peteros-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+    portfolio
+  </a>,
+  where you can see the code and interact with the projects themselves!
+</h3>
+
 
 ---
 
